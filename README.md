@@ -1,4 +1,4 @@
 # AnoGAN_pytorch_mnist
 
-
-![loss graph](./loss_graph.png)
+誤差の推移
+![loss graph](./img/loss_graph.png)
